@@ -1,2 +1,2 @@
 alert(“Hola mundo”);
-(“Hola mundo_editado”); 
+print(“Hola mundo_editado”); 
